@@ -1,4 +1,6 @@
-# Table of contents
+# Taxi service
+
+## Table of contents
 
 * [General info](#general-info)
 * [Features](#features)
