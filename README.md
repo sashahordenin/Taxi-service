@@ -13,6 +13,8 @@
 Taxi service App is a web-app, built based on SOLID
 principles, with connection to database powered by JDBC.
 
+You can test this application just following the link https://taxi-service-app.herokuapp.com/ or go through [Installation](#installation).
+
 <a id="features"></a>
 ## Features:
 
@@ -54,5 +56,3 @@ private static final String JDBC_DRIVER = "YOUR DRIVER";
 6. Add configuration of your installed TomCat's local server to the IDE
 7. Run you project. You must be redirected to login page. Here you can go to register page or create driver particularly from your database.
 8. After driver was created you can log in. If authentication was successful you will be redirected to index page, where you have access to all described features of taxi service App.
-
-Also you can test this application just following the link: https://taxi-service-app.herokuapp.com/
